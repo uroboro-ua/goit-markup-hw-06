@@ -159,7 +159,7 @@ textarea {
   border-bottom-style: solid;
   border-radius: 2px;
   color: var(--blue-link-color);
-  padding-bottom: 31px;
+  padding-bottom: 30px;
 }
 .nav-link:hover::after {
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
